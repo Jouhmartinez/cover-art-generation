@@ -2,6 +2,7 @@ black
 pytest
 dvc
 dvc-gdrive
+spotipy
 torch==1.9.0
 torchvision==0.10.0
 numpy==1.21.0
